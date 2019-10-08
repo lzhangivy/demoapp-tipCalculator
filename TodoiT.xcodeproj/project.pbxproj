@@ -14,6 +14,7 @@
 		458FCE9F2335A79900D30CF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 458FCE9D2335A79900D30CF3 /* LaunchScreen.storyboard */; };
 		458FCEAA2335A79900D30CF3 /* TodoiTTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 458FCEA92335A79900D30CF3 /* TodoiTTests.swift */; };
 		458FCEB52335A79900D30CF3 /* TodoiTUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 458FCEB42335A79900D30CF3 /* TodoiTUITests.swift */; };
+		458FCEC3234C467A00D30CF3 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 458FCEC2234C467A00D30CF3 /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		458FCEB02335A79900D30CF3 /* TodoiTUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TodoiTUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		458FCEB42335A79900D30CF3 /* TodoiTUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoiTUITests.swift; sourceTree = "<group>"; };
 		458FCEB62335A79900D30CF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		458FCEC2234C467A00D30CF3 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				458FCE942335A79300D30CF3 /* AppDelegate.swift */,
 				458FCE962335A79300D30CF3 /* ViewController.swift */,
 				458FCE982335A79300D30CF3 /* Main.storyboard */,
+				458FCEC2234C467A00D30CF3 /* SettingViewController.swift */,
 				458FCE9B2335A79900D30CF3 /* Assets.xcassets */,
 				458FCE9D2335A79900D30CF3 /* LaunchScreen.storyboard */,
 				458FCEA02335A79900D30CF3 /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				458FCE972335A79300D30CF3 /* ViewController.swift in Sources */,
 				458FCE952335A79300D30CF3 /* AppDelegate.swift in Sources */,
+				458FCEC3234C467A00D30CF3 /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
